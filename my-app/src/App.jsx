@@ -11,6 +11,9 @@ function App() {
       <div>
        <img src="/bg-1.png" alt="" />
       </div>
+      <div>
+        <h1>this is the first page </h1>
+      </div>
     
     </>
   )
