@@ -11,8 +11,6 @@ export default function MapSection() {
       />
 
       {/* Coffee markers */}
-      <div className="absolute top-[40%] left-[25%] text-3xl">☕</div>
-      <div className="absolute top-[45%] left-[45%] text-3xl">☕</div>
       <div className="absolute top-[50%] left-[60%] text-3xl">☕</div>
       <div className="absolute top-[48%] left-[75%] text-3xl">☕</div>
     </section>
